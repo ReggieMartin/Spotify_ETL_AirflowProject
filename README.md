@@ -1,4 +1,4 @@
-# Spotify_ETL_SongsList_Airflow
+# ETL Job using Airflow Scheduler to Save Played Songs to DB Once Per Day:
 Extracts recently played songs via Spotify API and transforms the data to place it in a SQLite database one a day via Airflow scheduler
 
 INSTRUCTIONS: <br />
