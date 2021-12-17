@@ -9,3 +9,5 @@ INSTRUCTIONS: <br />
 -"airflow users create --username person --firstname Xxxx --Lastname Yyyy --role Admin --email z@example.com --password pass" <br />
 -"airflow webserver --port 8080" <br />
 -"airflow scheduler" (in a separate terminal) <br />
+
+You should now be able to run your Airflow job
